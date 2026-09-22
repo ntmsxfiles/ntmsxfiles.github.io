@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0cnr54w6o2jql.css","style"]
+:HL["/_next/static/media/krasnodar_grotesk.p.2-_2oshq_lwbh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/postertoaster.p.0zkg_iu6-w01s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/soyuz_grotesk_bold-s.p.19k6z5enqbyhu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"BzuqCwXdiU_ZXK-XxtKZp"}
